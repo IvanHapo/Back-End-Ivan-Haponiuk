@@ -1,4 +1,5 @@
 console.log("Hola world")
+console.log("Como tan muchacho")
 
 class Usuario {
     constructor (nombre, apellido) {
