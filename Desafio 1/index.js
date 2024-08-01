@@ -1,3 +1,5 @@
+console.log("Hola world")
+
 class Usuario {
     constructor (nombre, apellido) {
         this.nombre = nombre; 
@@ -37,6 +39,8 @@ class Usuario {
     }
 
 }
+
+console.log("Hola world")
 
 let usuario = new Usuario ('Marcos', 'Gomez');
 let nombreCompleto = usuario.getFullName();
